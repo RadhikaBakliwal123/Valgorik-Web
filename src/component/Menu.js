@@ -4,7 +4,7 @@ import AboutUs from './About'
 import ContactUs from "./Contact";
 import Sales from './Sales'
 import ServiceCloud from './Servicecloud'
-import Cpq from './Cpql'
+import Cpq from './Cpq'
 import Heroq from './Heroku'
 import Home from "./Home";
 //import CompanyLogo from '../assets/img/ValgoLogo.png';
@@ -36,7 +36,7 @@ function Menus() {
                     </li>
 
                     <li>
-                        <Link className="nav-link scrollto" to={ABOUT_US_PAGE}>About</Link>
+                        <Link className="nav-link scrollto" to={ABOUT_US_PAGE}>About Us</Link>
                     </li>
 
                     <li>
@@ -48,7 +48,7 @@ function Menus() {
                             <li> <Link classNameName="dropdown-item" to={SALES_CLOUD_PAGE}>Sales</Link></li>
                             <li><Link classNameName="dropdown-item" to={SERVICE_CLOUD_PAGE}>Service Cloud</Link></li>
                             <li><Link classNameName="dropdown-item" to={HEROKU_PAGE}>Heroku</Link></li>
-                            <li><Link classNameName="dropdown-item" to={CPQ_PAGE}>Cpq</Link></li>
+                            <li><Link classNameName="dropdown-item" to={CPQ_PAGE}>CPQ</Link></li>
                         </ul>
                     </li>
                 </ul>

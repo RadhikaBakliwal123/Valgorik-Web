@@ -1,9 +1,5 @@
 function Contact() {
-    const mapStyle = {
-        border: '0px',
-        width: '100%',
-        height: '290px'
-    }
+  
     return (<section id="contact" className="contact">
     <div className="container">
 

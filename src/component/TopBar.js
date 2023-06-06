@@ -1,5 +1,3 @@
-import logo from '../assets/img/logo.svg'
-
 
 function TopBar() {
   return (
