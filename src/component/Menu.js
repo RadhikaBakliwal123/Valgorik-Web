@@ -7,7 +7,7 @@ import ServiceCloud from './Servicecloud'
 import Cpq from './Cpq'
 import Heroq from './Heroku'
 import Home from "./Home";
-//import CompanyLogo from '../assets/img/ValgoLogo.png';
+import CompanyLogo from '../assets/img/ValgoLogo.png';
 
 function Menus() {
 
@@ -25,7 +25,7 @@ function Menus() {
             <nav id="navbar" className="navbar">
                 <header id="header" className="d-flex align-items-center">
                     <div className="container d-flex align-items-center">
-                        <img src='' alt="Company Name..."/>
+                        <img src={CompanyLogo} alt="Company Name..."/>
                     </div>
                     
 

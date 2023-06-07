@@ -24,7 +24,6 @@ function Home() {
                             <div class="carousel-container">
                                 <div class="container">
                                     <h2 class="animate__animated animate__fadeInDown">Welcome to <span>Valgorik Technologies</span></h2>
-                                    
                                 </div>
                             </div>
                         </div>

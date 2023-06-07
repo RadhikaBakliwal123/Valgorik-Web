@@ -15,7 +15,7 @@ function Contact() {
             <div className="address"><br></br><br></br><br></br>
               <i className="bi bi-geo-alt"></i>
               <h4>Location:</h4>
-              <p>1021/44 Devdeh Nagar, dhola Bhata, Ajmer</p>
+              <p>1021/44 Devdeh Nagar, Dhola Bhata, Ajmer</p>
             </div>
 
             <div className="email"><br></br>
